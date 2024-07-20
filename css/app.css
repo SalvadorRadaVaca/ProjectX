@@ -1,0 +1,26 @@
+body {
+    background-image: url('https://www.darkroomclicks.com/wp-content/uploads/2018/04/photography-business.jpg');
+    color: #FFFFFF;
+    background-size: 1360px, 0px;
+}
+
+th {
+    color: blue;
+    background-size: contain;
+}
+
+td {
+    color: rgb(163, 93, 1);
+    background-size: contain;
+}
+
+h4 {
+    text-align: center;
+    font-size:xx-large;
+    color: blue;
+}
+
+.nav-item {
+    color: #FFFFFF;
+    font-size: large;
+}

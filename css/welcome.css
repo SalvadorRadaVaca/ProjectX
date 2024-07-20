@@ -1,0 +1,13 @@
+body {
+    background-image: url('https://www.darkroomclicks.com/wp-content/uploads/2018/04/photography-business.jpg');
+    color: #FFFFFF;
+    background-size: 1360px, 0px;
+}
+
+h1, h2, p {
+    color: black;
+}
+
+hr {
+    background-color: black;
+}
